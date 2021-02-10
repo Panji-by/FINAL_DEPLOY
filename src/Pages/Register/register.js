@@ -194,7 +194,7 @@ const RegisterPage = (props) => {
             </p>
           </FormGroup>
           <h5 className='joinus'>Join As</h5>
-          <FormGroup data-aos="fade-right" check >
+          <FormGroup check >
             <Label check className="radioCenter radio1" style={{cursor:'pointer'}} title='Join as Provider'>
               <Input
                 value='2'
